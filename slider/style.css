@@ -1,0 +1,36 @@
+html {
+    background-color:  #eee;
+}
+
+body {
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #414141;
+    box-sizing: border-box;
+    background-color: lightblue;
+}
+
+header {
+    text-align: center;
+    background-color: #333333;
+    padding: 0.5rem;
+}
+header h1 {
+    color: #DD5735;
+}
+header p {
+    color: white;
+}
+
+
+footer {
+    
+    text-align: center;
+    background-color: #333333;
+    color: white;
+    padding: 2rem;
+}
+footer p a {
+    color: #DD5735;
+}
